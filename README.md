@@ -2,10 +2,12 @@
 only for file transfer
 
 # A-level
-|                             |                                             |
-| --------------------------- | ------------------------------------------- |
-| A-level Biology             | https://www.bilibili.com/video/BV1Gx4y1R7GG |
-| A-level Pure Math           | https://www.bilibili.com/video/BV14S4y1v73A |
+|                          |                                             |
+| ------------------------ | ------------------------------------------- |
+| A-level Biology          | https://www.bilibili.com/video/BV1Gx4y1R7GG |
+| A-level Math - Pure      | https://www.bilibili.com/video/BV14S4y1v73A |
+| A-level Math - Mechanics | https://www.bilibili.com/video/BV1L94y1h7DQ |
+
 # IGCSE
 |                        |                                             |
 | ---------------------- | ------------------------------------------- |
