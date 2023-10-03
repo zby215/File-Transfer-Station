@@ -21,3 +21,5 @@ only for file transfer
 ---
 
 If you want any extra resources, pls email me: boyuzhang215@gmail.com
+
+![Give a star](https://raw.githubusercontent.com/zby215/File-Transfer-Station/main/Resource/give_a_star.png)
